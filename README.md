@@ -1,1 +1,1 @@
-# site
+# site de comparação de itens
